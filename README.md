@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Luvvydev/Luvvydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Luvvydev
 
-Here are some ideas to get you started:
+![Hero](docs/hero.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About me
+
+* Comfortable across macOS and Windows
+* Enjoys math heavy problems like geometry, prediction, and timing control
+
+
+## Highlights
+
+* Large multi module C++ codebase under active development  
+* Unified menu and overlay patterns
+* Geometry helpers for cones, circles, and polygons with point inclusion checks  
+* Predictor work with travel time and reaction windows
+
+
+## Learning
+
+* Ongoing study of Python, C++, Go, and Git through structured courses
+
+
+
+
+
+
+
