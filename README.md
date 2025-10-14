@@ -2,7 +2,7 @@
 
 ## Highlights
 
-* Large multi module C++ codebase under active development  
+* Large multi module private C++ codebase under active development  
 * Unified menu and overlay patterns
 * Geometry helpers for cones, circles, and polygons with point inclusion checks  
 * Predictor work with travel time and reaction windows
