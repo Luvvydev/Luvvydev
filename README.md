@@ -1,9 +1,4 @@
-## Hi there 👋
-
-# Luvvydev
-
-![Hero](docs/hero.png)
-
+## Hi there
 
 ## About me
 
