@@ -1,11 +1,5 @@
 ## Hi there
 
-## About me
-
-* Comfortable across macOS and Windows
-* Enjoys math heavy problems like geometry, prediction, and timing control
-
-
 ## Highlights
 
 * Large multi module C++ codebase under active development  
