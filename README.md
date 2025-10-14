@@ -1,5 +1,3 @@
-## Hi there i'm luvvy! 
-
 ## Highlights
 
 * Large multi module private C++ codebase under active development
