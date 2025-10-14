@@ -1,11 +1,8 @@
-## Hi there
+## Hi there i'm luvvy! 
 
 ## Highlights
 
-* Large multi module private C++ codebase under active development  
-* Unified menu and overlay patterns
-* Geometry helpers for cones, circles, and polygons with point inclusion checks  
-* Predictor work with travel time and reaction windows
+* Large multi module private C++ codebase under active development
 
 
 ## Learning
