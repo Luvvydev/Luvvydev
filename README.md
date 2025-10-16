@@ -1,4 +1,4 @@
-## Highlights
+## Scope & Status
 
 * Large multi module private C++ codebase under active development
 
