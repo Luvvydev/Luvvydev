@@ -1,4 +1,4 @@
-## Scope & Status <sup><sub>as of October 2025</sub></sup>
+## Status <sup><sub>as of October 2025</sub></sup>
 
 * Large multi module private C++ codebase under active development
 
