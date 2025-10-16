@@ -5,7 +5,7 @@
 
 ## Learning
 
-* Ongoing study of Python, C++, Go, and Git through structured courses
+* Ongoing study of Python, C++, Go, and Git
 
 
 
