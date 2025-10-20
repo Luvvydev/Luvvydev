@@ -3,7 +3,7 @@
 * Large multi module private C++ codebase under active development
 
 
-## Learning
+## Ongoing study of:
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
