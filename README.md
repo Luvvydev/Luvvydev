@@ -1,6 +1,6 @@
 ## Status <sup><sub>as of October 2025</sub></sup>
 
-Actively developing a large private multi module C++ codebase and shipping small Python GUIs that solve real problems
+Actively developing a large private multi module C++ codebase and shipping small Python GUIs that solve problems
 
 **Recent public work**
 * [Minecraft Cache Warmer](https://github.com/Luvvydev/minecraft-cache-warmer)  
