@@ -3,8 +3,8 @@
 Actively developing a large private multi module C++ codebase and shipping Python GUIs that solve problems
 
 **Recent public work**
-* [Minecraft Cache Warmer](https://github.com/Luvvydev/minecraft-cache-warmer)  
-* [Nova Filename Lister](https://github.com/Luvvydev/Nova-Filename-Lister)
+* [Minecraft Cache Warmer - reduces game load time on large modpacks](https://github.com/Luvvydev/minecraft-cache-warmer)  
+* [Nova Filename Lister - one window GUI to export a sorted clean list of filenames from any folder](https://github.com/Luvvydev/Nova-Filename-Lister)
 
 
 ## Stack
