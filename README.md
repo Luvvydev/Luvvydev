@@ -1,7 +1,15 @@
 ## Status <sup><sub>as of October 2025</sub></sup>
 
-Actively developing a large private multi module C++ codebase
+* Actively developing a large private multi module C++ codebase and shipping small Python GUIs that solve real problems
 
+**Recent public work**
+* [Minecraft Cache Warmer](https://github.com/Luvvydev/minecraft-cache-warmer)  
+* [Nova Filename Lister](https://github.com/Luvvydev/Nova-Filename-Lister)
+
+**How these are used**
+* Python for desktop GUIs and automation tooling  
+* C++ for private projects
+* Git for clean history and releases
 
 ## Ongoing study of:
 
