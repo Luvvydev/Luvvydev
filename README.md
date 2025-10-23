@@ -6,10 +6,15 @@ Actively developing a large private multi module C++ codebase and shipping small
 * [Minecraft Cache Warmer](https://github.com/Luvvydev/minecraft-cache-warmer)  
 * [Nova Filename Lister](https://github.com/Luvvydev/Nova-Filename-Lister)
 
-**How these are used**
-* Python for desktop GUIs and automation tooling  
-* C++ for private projects
-* Git for clean history and releases
+### What I use them for
+
+• Python for desktop GUIs and automation  
+• JavaScript and HTML for small UIs and docs  
+• C# for occasional desktop work  
+• C++ for modules in the private codebase  
+• Go for quick CLI tools  
+• Git for releases and clean history
+
 
 ## Stack
 
