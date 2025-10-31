@@ -1,4 +1,4 @@
-## Status <sup><sub>as of October 2025</sub></sup>
+## Status <sup><sub>as of November 2025</sub></sup>
 
 Actively developing a large private multi module C++ codebase and shipping Python GUIs that solve problems
 
