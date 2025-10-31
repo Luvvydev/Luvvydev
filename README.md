@@ -3,7 +3,7 @@
 Actively developing a large private multi module C++ codebase and shipping Python GUIs that solve problems
 
 
-## Stack
+## 
 
  <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
