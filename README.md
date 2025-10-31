@@ -1,6 +1,6 @@
 ##  <sup><sub>as of November 2025</sub></sup>
 
-building and maintaining a large private C++ codebase with multiple modules, and releasing Python GUI tools that solve real problems
+building and maintaining a large private C++ codebase, and releasing Python GUI tools that solve real problems
 
 ## 
 
