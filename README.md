@@ -1,7 +1,6 @@
 ## Status <sup><sub>as of November 2025</sub></sup>
 
-Actively developing a large private multi module C++ codebase and shipping Python GUIs that solve problems
-
+building and maintaining a large private C++ codebase with multiple modules, and releasing Python GUI tools that solve real problems.
 
 ## 
 
