@@ -1,6 +1,6 @@
 ##  <sup><sub>as of Jan 2026</sub></sup>
 
-building and maintaining a large private C++ codebase, and releasing Python GUI tools that solve real problems
+C++ developer with systems-level experience, releasing Python GUI tools that solve real problems
 
 ## 
 
