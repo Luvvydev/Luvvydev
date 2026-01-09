@@ -1,6 +1,6 @@
 ##  <sup><sub>as of Jan 2026</sub></sup>
 
-C++ developer with systems-level experience, releasing Python GUI tools that solve real problems
+C++ developer with native and systems programming experience, releasing Python GUI tools that solve real problems
 
 ## 
 
