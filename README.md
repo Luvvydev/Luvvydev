@@ -1,6 +1,7 @@
 ##  <sup><sub>as of Jan 2026</sub></sup>
 
-C++ developer with native and systems programming experience, releasing Python GUI tools focused on practical workflows
+C++ developer with native and systems programming experience, releasing Python GUI tools for practical workflows
+
 
 ## 
 
