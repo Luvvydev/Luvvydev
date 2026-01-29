@@ -2,7 +2,7 @@
 
 C++ developer with native and systems programming background, releasing Python GUI tools for everyday workflows. 
 
-I maintain a free, open source chess opening drill tool focused on move order
+check out my free open source chess opening drill tool focused on move order
 https://chessdrills.net
 
 
