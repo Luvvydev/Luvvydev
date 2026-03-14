@@ -1,4 +1,4 @@
-##  <sup><sub>as of Jan 2026</sub></sup>
+##  <sup><sub>as of Mar 2026</sub></sup>
 
 C++ developer with native and systems programming background, releasing Python GUI tools for everyday workflows. 
 
