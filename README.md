@@ -1,6 +1,10 @@
 ##  <sup><sub>as of June 2026</sub></sup>
 
-C++ developer with native and systems programming background, releasing Python GUI tools for everyday workflows. 
+C++ systems developer building browser privacy tools, reverse engineering utilities, python desktop apps, and chess training software.
 
-check out my chess drills opening tool focused on move order:
-https://chessdrills.net
+Current projects:
+- ProfileFog: personal ads profile poisoning, tracker blocking, and local browser privacy controls
+- ChessDrills: master chess openings with fun, engaging drills, & train your repertoire using spaced repetition.
+- reassist: reverse engineering helper for strings, IOCs, imports, and Ghidra assisted analysis
+
+ChessDrills: https://chessdrills.net
