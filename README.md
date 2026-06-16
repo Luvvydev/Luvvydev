@@ -1,6 +1,7 @@
 ##  <sup><sub>as of June 2026</sub></sup>
 
-C++ systems developer building browser privacy tools, reverse engineering utilities, Python desktop apps, and chess training software.
+Self taught web developer building JavaScript apps, Chrome extensions, Node.js tools, Python utilities, C++ desktop apps, and chess training software.
+
 
 Current projects:
 - ProfileFog: browser privacy tool for ad profile poisoning, tracker blocking, and local controls
