@@ -8,6 +8,6 @@ Current projects:
 - Unity game prototypes: top down RPG and arena experiments, progression, NPCs, quests, and tactical gamplay
 - ProfileFog: browser privacy tool for ad profile poisoning, tracker blocking, and local controls
 - YouTube Audio Scrubber: Chrome extension for audio preview while watching YouTube videos
-- reassist: reverse engineering helper for strings, IOCs, imports, and Ghidra assisted analysis
+- GhostJob: job listing analyzer that flags likely ghost jobs, stale postings, fake application funnels, and low quality listings
 
 ChessDrills: https://chessdrills.net
