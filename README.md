@@ -1,13 +1,14 @@
-##  <sup><sub>as of July 2026</sub></sup>
+## <sup><sub>as of Aug 2026</sub></sup>
 
-Self taught developer building JavaScript apps, Chrome extensions, Node.js tools, Python utilities, C++ desktop apps, and chess training software.
+Self taught developer building web apps, desktop apps, browser extensions, developer tools, and games. I mostly work with JavaScript, Node.js, Electron, Python, and C++.
 
+### Current projects
 
-Current projects:
-- ChessDrills: master chess openings with fun, engaging drills, & train your repertoire using spaced repetition
-- Unity game prototypes: top down RPG and arena experiments, progression, NPCs, quests, and tactical gamplay
-- ProfileFog: browser privacy tool for ad profile poisoning, tracker blocking, and local controls
-- YouTube Audio Scrubber: Chrome extension for audio preview while watching YouTube videos
-- GhostJob: job listing analyzer that flags likely ghost jobs, stale postings, fake application funnels, and low quality listings
+* [ChessDrills](https://chessdrills.net): chess opening trainer with drills, game review, mistake based practice, and synced progress
+* [Pair Presence](https://github.com/Luvvydev/pair-presence-releases): private two person chat, presence, file sharing, and game activity app for Windows and macOS
+* [Abyssal Bloom](https://github.com/Luvvydev/abyssal-agar): single player evolution arena with AI opponents, biomes, challenge runs, and permanent progression
+* [Veyr Arena](https://github.com/Luvvydev/VeyrArena): top down tactical shooter with contracts, rival fights, weapon tactics, and persistent unlocks
+* [ProfileFog](https://github.com/Luvvydev/ProfileFog): Chrome privacy extension for tracker blocking, link cleanup, and ad profile obfuscation
+* [Crustaceans Feel](https://luvvydev.github.io/crustaceans-feel/): research and action site about ending the live boiling and steaming of crabs and lobsters
 
-ChessDrills: https://chessdrills.net
+Other projects include YouTube Audio Scrubber, GhostJob, BookmarkFog, and small Python and JavaScript utilities
