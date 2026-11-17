@@ -1,4 +1,4 @@
-## <sup><sub>as of Oct 2026</sub></sup>
+## <sup><sub>as of Nov 2026</sub></sup>
 
 Self taught developer building web apps, desktop apps, browser extensions, developer tools, and games. I mostly work with JavaScript, TypeScript, Node.js, Electron, Tauri, Rust, Python, and C++.
 
